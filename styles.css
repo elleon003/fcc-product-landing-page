@@ -1,0 +1,13 @@
+header {
+  height:30vh;
+  display: flex;
+  flex-direction: column;
+}
+
+img {
+  max-height: 35%;
+}
+
+iframe {
+  max-width: 100%;
+}
